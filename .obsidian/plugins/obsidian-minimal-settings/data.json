@@ -1,7 +1,7 @@
 {
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-things-light",
+  "lightScheme": "minimal-catppuccin-light",
   "darkScheme": "minimal-macos-dark",
   "editorFont": "",
   "lineHeight": 1.5,

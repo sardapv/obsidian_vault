@@ -1,6 +1,6 @@
 {
-  "theme": "system",
-  "cssTheme": "Atom",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
   "translucency": true,
   "accentColor": "#2872c8",
   "nativeMenus": true,

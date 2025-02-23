@@ -1,0 +1,8 @@
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "accentColor": "#2e87b8",
+  "nativeMenus": true,
+  "showRibbon": true
+}
